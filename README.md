@@ -1,0 +1,2 @@
+# imageRezise
+HERE YOU CAN RESIZE YOUR IMAGES
