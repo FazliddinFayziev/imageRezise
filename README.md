@@ -6,3 +6,4 @@ Here is a link:
 
 
 https://resize-image.netlify.app/ 
+<img width="403" alt="resize" src="https://user-images.githubusercontent.com/119391181/209470900-9e8b1e9d-b0eb-4b14-a4e2-377bb5ac6abc.png">
